@@ -13,7 +13,7 @@ The primary goal of SmileyPeopleCNN is to design an efficient smile detection mo
 
 **Face Detection with OpenCV:** It incorporates OpenCV’s pre-trained classifier for precise frontal face detection, enhancing the model’s ability to recognize facial expressions.
 
-**Model Accuracy:** model_from_bigData.py creates a model with h5 extention that is a highly **accurate** (**95.1%**) model
+**Model Accuracy:** *"model_from_bigData.py"* creates a model with h5 extention that is a highly **accurate** (**95.1%**) model
 
 **Scalability & Flexibility:** The solution is designed to be scalable and adaptable, supporting deployment across various platforms and technological environments.
 
