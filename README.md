@@ -1,13 +1,13 @@
 # SmileyPeopleCNN :smile:
 
-## 😊Introduction
+## 😊 Introduction
 - This project includes model creation and use that model to detect and predict smile of multiple faces on web cam in real-time.
 - SmileyPeopleCNN is an advanced deep learning project focused on developing a highly accurate smile detection system.
 
-## 🎯Goal
+## 🎯 Goal
 The primary goal of SmileyPeopleCNN is to design an efficient smile detection model that offers high accuracy and robustness. This model is intended for seamless integration into a wide range of applications, including facial recognition systems, emotion-based technologies and interactive interfaces.
 
-## Capabilities
+## ⚡ Capabilities
 
 **Deep Learning for Smile Recognition:** The project utilizes CNNs to perform complex pattern recognition for smile detection.
 
@@ -17,7 +17,7 @@ The primary goal of SmileyPeopleCNN is to design an efficient smile detection mo
 
 **Scalability & Flexibility:** The solution is designed to be scalable and adaptable, supporting deployment across various platforms and technological environments.
 
-## Use Cases:
+## 🛠 Use Cases:
 
 Emotion Detection: Enhancing facial recognition systems with advanced emotion detection.
 
